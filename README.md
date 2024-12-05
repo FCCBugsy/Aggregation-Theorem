@@ -1,4 +1,4 @@
-# Aggregation Theorem (Subnets)
+# Aggregation Theorem Subnets (in French)
 
 ## Overview
 
